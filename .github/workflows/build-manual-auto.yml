@@ -20,7 +20,7 @@ jobs:
       - name: Configurar ambiente Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '14'
+          node-version: '20'
 
       # Passo 3: Instalar dependências do projeto
       - name: Instalar dependências
