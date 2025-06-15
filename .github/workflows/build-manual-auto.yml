@@ -1,4 +1,4 @@
-name: Testes Automatizados
+name: Testes Manual Automatizados
 
 # Evento manual via GitHub Actions UI
 on:
